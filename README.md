@@ -48,3 +48,10 @@ This assignment consists of two technical products.
  ![image](https://github.com/lakigit/web-scraping-challenge/assets/138610916/ede7b627-ebc6-4f83-b952-1b9289eda385)
 
     6. Export the DataFrame to a CSV file.
+
+# Code Files
+
+- [part_1_mars_news_solution.ipynb](https://github.com/lakigit/web-scraping-challenge/blob/main/part_1_mars_news_solution.ipynb), is code for part 1.
+- [part_2_mars_weather_solution.ipynb](https://github.com/lakigit/web-scraping-challenge/blob/main/part_2_mars_weather_solution.ipynb), is code for part 2. 
+- [Mars Temperature Data.csv](https://github.com/lakigit/web-scraping-challenge/blob/main/Mars%20Temperature%20Data.csv), is Mars temperature data csv.
+- [outfile.json](https://github.com/lakigit/web-scraping-challenge/blob/main/outfile.json), is json file. 
