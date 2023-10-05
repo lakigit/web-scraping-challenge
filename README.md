@@ -34,11 +34,17 @@ This assignment consists of two technical products.
         - How many Martian (and not Earth) days worth of data exist in the scraped dataset?
         - What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:\
               -  Find the average minimum daily temperature for all of the months.\
-              -  Plot the results as a bar chart.
+              -  Plot the results as a bar chart.\
+          ![image](https://github.com/lakigit/web-scraping-challenge/assets/138610916/5b641342-f408-4a22-88fc-4c8ce20631a7)
+
         - Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:\
               -  Find the average daily atmospheric pressure of all the months.\
-              -  Plot the results as a bar chart.
+              -  Plot the results as a bar chart.\
+          ![image](https://github.com/lakigit/web-scraping-challenge/assets/138610916/9581a3b7-db56-4724-b0c4-c8c71edefbee)
+
         -  About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
               -  Consider how many days elapse on Earth in the time that Mars circles the Sun once.
-              -  Visually estimate the result by plotting the daily minimum temperature.
+              -  Visually estimate the result by plotting the daily minimum temperature.\
+ ![image](https://github.com/lakigit/web-scraping-challenge/assets/138610916/ede7b627-ebc6-4f83-b952-1b9289eda385)
+
     6. Export the DataFrame to a CSV file.
